@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600709446 source:c:\users\bruno\desktop\estudos\estrutura de dados\labpilhas\pilha.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1600708398 c:\users\bruno\desktop\estudos\estrutura de dados\labpilhas\pilha.h
+	<stdio.h>
+	<stdlib.h>
+
+1600709460 source:c:\users\bruno\desktop\estudos\estrutura de dados\labpilhas\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1599137032 source:c:\users\bruno\desktop\estudos\estrutura de dados\lablse\main.c
+	<stdlib.h>
+	<stdio.h>
+	"lselab.h"
+
+1599137111 c:\users\bruno\desktop\estudos\estrutura de dados\lablse\lselab.h
+
+1599136846 source:c:\users\bruno\desktop\estudos\estrutura de dados\lablse\lablse.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"lselab.h"
+

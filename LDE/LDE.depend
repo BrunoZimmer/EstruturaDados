@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1599674642 source:c:\users\bruno\desktop\estudos\estrutura de dados\lde\lde.c
+	<stdio.h>
+	<stdlib.h>
+	"LDE.h"
+
+1599671757 c:\users\bruno\desktop\estudos\estrutura de dados\lde\lde.h
+
+1599674702 source:c:\users\bruno\desktop\estudos\estrutura de dados\lde\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LDE.h"
+
